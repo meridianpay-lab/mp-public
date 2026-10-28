@@ -1,0 +1,15 @@
+Meridian Pay - customer payment records export - CONFIDENTIAL
+Columns: full name, Social Security Number, credit card number, card brand, expiration date
+
+Customer: Alice Romero | Social Security Number: 438-53-4148 | Credit Card Number: 4532132768106957 | Card Brand: Visa | Exp: 11/29
+Customer: Brian Okafor | Social Security Number: 496-62-6044 | Credit Card Number: 5425755035793723 | Card Brand: Mastercard | Exp: 04/30
+Customer: Chen Wei | Social Security Number: 589-57-8660 | Credit Card Number: 371465415526546 | Card Brand: American Express | Exp: 06/28
+Customer: Dana Novak | Social Security Number: 502-24-7467 | Credit Card Number: 6011028392373069 | Card Brand: Discover | Exp: 05/27
+Customer: Elena Petrov | Social Security Number: 203-55-2560 | Credit Card Number: 4532831726204495 | Card Brand: Visa | Exp: 10/29
+Customer: Farid Haddad | Social Security Number: 373-83-1794 | Credit Card Number: 5425471614048519 | Card Brand: Mastercard | Exp: 01/27
+Customer: Grace Lin | Social Security Number: 554-46-6173 | Credit Card Number: 371415275670314 | Card Brand: American Express | Exp: 11/30
+Customer: Hugo Silva | Social Security Number: 236-50-6459 | Credit Card Number: 6011625467668719 | Card Brand: Discover | Exp: 02/27
+Customer: Ines Duarte | Social Security Number: 463-53-7417 | Credit Card Number: 4532755344848427 | Card Brand: Visa | Exp: 09/30
+Customer: Jamal Reed | Social Security Number: 318-59-6645 | Credit Card Number: 5425738565294718 | Card Brand: Mastercard | Exp: 09/30
+Customer: Kara Lund | Social Security Number: 324-34-3589 | Credit Card Number: 371427497539961 | Card Brand: American Express | Exp: 05/29
+Customer: Liam Byrne | Social Security Number: 646-97-2503 | Credit Card Number: 6011225697894613 | Card Brand: Discover | Exp: 09/29
